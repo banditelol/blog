@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Thoughts and Grumble`,
+    title: `Thoughts and Ramble`,
     author: `Aditya Rachman Putra`,
     description: `An MVP Blog based on gatsby-starter-blog`,
     siteUrl: `https://blog.adityarp.com/`,
