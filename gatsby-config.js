@@ -5,7 +5,7 @@ module.exports = {
     description: `An MVP Blog based on gatsby-starter-blog`,
     siteUrl: `https://blog.adityarp.com/`,
     social: {
-      twitter: `BanditeloRP`,
+      twitter: `BanditelolRP`,
     },
   },
   plugins: [
@@ -57,13 +57,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Thoughts and Ramble`,
+        short_name: `Banditelol`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#0071BC`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/adit-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
