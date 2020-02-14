@@ -3,6 +3,7 @@ title: 3 Things I learned on DevC Bandung Meetup (Pytorch)
 date: "2020-01-29T00:00:00.000Z"
 ---
 
+<!-- TODO: Add Event Photos -->
 This note is about what I learnt from FB Bandung DevC Meetup last Wednesday (2020-01-22), to be specific it is about Amajid Sinar Guntara - Jedi's talk on using Pytorch from research to deployment. His original slide can be found on Bandung DevC Facebook Group. AS this note is about what I learnt, I may not cover all of his talk and will focus more on what interests me and also serve as my cue on what I want to learn next.
 
 For a bit of background, Jedi is an AI Engineer at Nodeflux which uses Pytorch for Industrial application (as opposed to research usage) where the constraint that he faced is not only about the accuracy and speed of inference, but also about the hardware limitation. As in some cases he needed to implement the model in edge devices. So in the implementation he has the incentive to be able to optimize the model to also cater to the Hardware limitation.
