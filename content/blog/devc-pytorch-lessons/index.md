@@ -1,6 +1,8 @@
 ---
 title: 3 Things I learned on DevC Bandung Meetup (Pytorch)
 date: "2020-01-29T00:00:00.000Z"
+description: "This note is about what I learnt from FB Bandung DevC Meetup last Wednesday (2020-01-22)...."
+featuredImage: './facebook_devc_Jan.jpg'
 ---
 
 <!-- TODO: Add Event Photos -->

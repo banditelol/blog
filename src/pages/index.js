@@ -1,4 +1,5 @@
 import React from "react"
+// import Img from "gatsby-image"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
@@ -31,6 +32,7 @@ class BlogIndex extends React.Component {
                   </Link>
                 </h3>
                 <small>{node.frontmatter.date}</small>
+                {/* <Img sizes={node.frontmatter.featuredImage.childImageSharp.sizes} /> */}
               </header>
               <section>
                 <p
@@ -66,6 +68,13 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            featuredImage {
+              childImageSharp{
+                sizes(maxWidth: 630) {
+                  ...GatsbyImageSharpSizes
+                }
+              }
+            }
             description
           }
         }

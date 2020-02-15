@@ -1,6 +1,7 @@
 ---
 title: Cooking and Programming
 date: "2020-02-13T00:00:00.000Z"
+featuredImage: './cooking.jpg'
 ---
 
 <figure class="image">

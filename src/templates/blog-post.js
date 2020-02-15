@@ -10,6 +10,7 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
+    const rootUrl = 'https://blog.adityarp.com'
     const { previous, next } = this.props.pageContext
 
     return (
@@ -17,7 +18,19 @@ class BlogPostTemplate extends React.Component {
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
+          url={`${rootUrl}${post.fields.slug}`}
+          meta = {[
+            {
+              property: `og:image`,
+              content: `${rootUrl}${post.frontmatter.featuredImage.childImageSharp.sizes.src}`
+            },
+            {
+              name: `viewport`,
+              content: `width=device-width, initial-scale=1.0`
+            }
+          ]}
         />
+
         <article>
           <header>
             <h1
@@ -93,10 +106,20 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      fields {
+        slug
+      }
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        featuredImage {
+          childImageSharp{
+              sizes(maxWidth: 1000) {
+                  src
+              }
+          }
+        }
       }
     }
   }
