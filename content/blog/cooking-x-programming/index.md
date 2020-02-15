@@ -3,6 +3,9 @@ title: Cooking and Programming
 date: "2020-02-13T00:00:00.000Z"
 ---
 
+![cooking](cooking.jpg)
+<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@kevinmccutcheon?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Kevin McCutcheon"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Kevin McCutcheon</span></a>
+
 Today I read this article in [the Atlantic titled “The Why of Cooking”](https://www.theatlantic.com/entertainment/archive/2017/04/the-why-of-cooking-samin-nosrat/523923/?single_page=true). At start, this article made me question myself on what it means to be able to cook. But it didn’t end there, as I read on and thought more about this topic I found a hazy analogy in my mental model about cooking and programming. Well I won’t deny that it probably stems from the bias created because of my day-to-day exposure to computer related works. So, if You will, please continue and let yourself be mislead by my thought.
 
 # What the article is really about
