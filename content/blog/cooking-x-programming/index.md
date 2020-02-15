@@ -8,8 +8,9 @@ date: "2020-02-13T00:00:00.000Z"
   <figcaption style="opacity:0.8; font-size:0.8rem""><center>Photo by <a href = "https://unsplash.com/@kevinmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin McCutcheon</a> on <a href="https://unsplash.com/@kevinmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></center></figcaption>
 </figure>
 
-<!-- ![cooking](cooking.jpg) -->
+This post is was originally written in 2018 and posted in my old blog. I thought the content was quite relevant today, so I decided to put it here and edited several things to make it easier to read (believe me, the original version is less thought out than I remembered it to be ).
 
+---
 
 Today I read this article in [the Atlantic titled “The Why of Cooking”](https://www.theatlantic.com/entertainment/archive/2017/04/the-why-of-cooking-samin-nosrat/523923/?single_page=true). At start, this article made me question myself on what it means to be able to cook. But it didn’t end there, as I read on and thought more about this topic I found a hazy analogy in my mental model about cooking and programming. Well I won’t deny that it probably stems from the bias created because of my day-to-day exposure to computer related works. So, if You will, please continue and let yourself be mislead by my thought.
 
