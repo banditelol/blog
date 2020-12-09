@@ -67,6 +67,7 @@ class Layout extends React.Component {
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
+        <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "04822b7c7bd54d26a4b53bb0637f72c6"}'></script>
       </div>
     )
   }
